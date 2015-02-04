@@ -1,3 +1,5 @@
+This is a fork of (https://github.com/vijendra/checkr)
+
 # Checkr
 
 Ruby wrapper for checkr.io API (https://checkr.io/docs)
